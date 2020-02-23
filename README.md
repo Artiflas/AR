@@ -1,2 +1,2 @@
-# AR
+# Ausgabenrechner
 Ausgabenrechner mit Vanilla Javascript 
